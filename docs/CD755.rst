@@ -1,6 +1,9 @@
-*************
-Introduction 
-*************
+*************************
+VP430 Reference Firmware  
+*************************
+
+Introduction
+################################
 
 This document describes the Reference Firmware for the Programmable Logic (PL) on the VP430. This design flow is based on the Xilinx Vivado IP Integrator (IPI) flow using Vivado 2018.2.1. A description of the Vivado IPI flow is beyond the scope of this document, but can be found in the Xilinx User Guide UG994: Designing IP Subsystems Using IP Integrator. This document only gives a global description of each custom IP included in the design. Detailed information can be found in the Star Document (SD###) available for each custom IP.
 
