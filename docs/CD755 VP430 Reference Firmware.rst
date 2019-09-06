@@ -25,12 +25,12 @@ Top-Level Block Design Description
 
 The top-level of the VP430 Vivado IPI Block Design is depicted in Figure 2 below. It has the following IP cores:
 
- 1. VP430 info  
- 2. VP430 8-Lane PCIe  
- 3. VP430 DDR4 FIFO  
- 4. AXI Interconnect  
- 5. AXI4-Stream Interconnect  
- 6. AXI I2C Master  
+1. VP430 info  
+2. VP430 8-Lane PCIe  
+3. VP430 DDR4 FIFO  
+4. AXI Interconnect  
+5. AXI4-Stream Interconnect  
+6. AXI I2C Master  
 
 .. image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_ip_integrator.png 
 
