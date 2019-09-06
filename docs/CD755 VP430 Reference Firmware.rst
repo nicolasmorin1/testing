@@ -13,7 +13,7 @@ The RFSoC device is a combination of embedded micro-processors, FPGA fabric, and
 
 The top-level block diagram for the VP430 Reference Firmware architecture can be seen in Figure 1 below:
 
-..image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_block_diagram.png "Top-Level Block Diagram"
+.. image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_block_diagram.png
 
 Vivado IPI Block Design Description 
 #####################################
@@ -31,7 +31,7 @@ The top-level of the VP430 Vivado IPI Block Design is depicted in Figure 2 below
 5. AXI4-Stream Interconnect 
 6. AXI I2C Master 
 
-..image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_ip_integrator.png "Top-Level Block Diagram"
+.. image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_ip_integrator.png "Top-Level Block Diagram"
 
 VP430 Info 
 **************
