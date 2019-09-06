@@ -9,6 +9,7 @@ this is a subsubtitle
 **********************
 
 **this is bold**   
+
 *this is italics* 
 
 this is a list
