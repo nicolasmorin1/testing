@@ -31,7 +31,7 @@ The top-level of the VP430 Vivado IPI Block Design is depicted in Figure 2 below
 5. AXI4-Stream Interconnect 
 6. AXI I2C Master 
 
-.. image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_ip_integrator.png "Top-Level Block Diagram"
+.. image:: https://github.com/nicolasmorin1/testing/blob/master/images/vp430_ip_integrator.png 
 
 VP430 Info 
 **************
